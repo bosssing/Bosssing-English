@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+release/
+dist/
+
+# IDE
+.vscode/
+.idea/
+.trae/
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Electron
+*.asar
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
